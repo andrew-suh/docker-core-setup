@@ -29,6 +29,6 @@ Inside this script is a couple settings needed to connect to the Vagrant vm via 
 
 You are encourgaed to modify the aliases however you wish. I also welcome any merges that adds to the aliases to make them more useful. 
 
-## How to use Vagrant
+## How to use this Vagrant setup
 
 To start the box, you will need to be in this directory and run vagrant up. To pause the vm, use vagrant suspend. To stop the vm, use vagrant halt. You can look at the aliases kept commented out in the pre-run script to see how you can do these commands at any folder location and add them to your corresponding rc file. 
