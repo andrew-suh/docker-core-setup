@@ -25,9 +25,9 @@ In the Vagrant file, there is a private ip address('###.###.#.#') to any address
 
 ## Pre-run script
 
-Inside this script is a couple settings needed to connect to the Vagrant vm via Docker CLI. I have commented out the aliases that I use to make it wasier to control the Vgrant vm state in any directory I'm in. 
+Inside this script is a couple settings needed to connect to the Vagrant vm via Docker CLI. I have commented out the aliases that I use to make it easier to control the Vagrant vm state in any directory I'm in. 
 
-You are encourgaed to modify the aliases however you wish. I also welcome any merges that adds to the aliases to make them more useful. 
+You are encouraged to modify the aliases however you wish. I also welcome any merges that adds to the functionality to make them more useful. 
 
 ## How to use this Vagrant setup
 
